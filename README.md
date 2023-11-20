@@ -1,2 +1,2 @@
 # Breast-Cancer-Wisconsin-Diagnostic-
-Machine Learning project( Task_1) 
+Machine Learning Internship_project( Task_1) 
